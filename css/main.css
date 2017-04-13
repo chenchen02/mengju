@@ -19,8 +19,8 @@ overflow: hidden;
 }
 
 .arrow-left{
-	width:46px;
-	height:40px;
+	width:5%;
+	height:5%;
 	position:absolute;
 	top:50%;
 	animation:arrowleft 2s infinite;
@@ -103,8 +103,8 @@ overflow: hidden;
 }
 
 .arrow-right{
-	width:46px;
-	height:40px;
+	width:5%;
+	height:5%;
 	position:absolute;
 	top:50%;
 	right:0px;
