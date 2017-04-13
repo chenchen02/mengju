@@ -265,7 +265,7 @@ overflow: hidden;
     float: right;
     top: 45px;
     width: 10%;
-    right: 45px;
+    right: 20px;
 animation:page1-img2 4s  ;
 -webkit-animation:page1-img2 4s  ;
 -ms-nimation: page1-img2 2s infinite;	
@@ -697,7 +697,7 @@ animation: page2-img1-2 1s;
     float: right;
     top: 45px;
     width: 10%;
-    right: 45px;
+    right: 20px;
     animation: page1-img2 4s;
     -webkit-animation: page1-img2 4s;
 -ms-nimation: page1-img2 4s ;
@@ -790,9 +790,8 @@ animation:page2-body 2s;
 
 li.li3 {
     width: 100%;
-height:100%;
-        position: absolute;
-    overflow: hidden;
+height:90%;
+        
 }
 
 .page3 {
@@ -1066,8 +1065,8 @@ li.li3 dt img {
 
 li.li4 {
     width: 100%;
-    height: 100%;
-    position: absolute;
+    height: 90%;
+
     overflow: hidden;
 }
 
