@@ -396,6 +396,10 @@ dl.page1-dl3 img {
     width: 100%;
 }
 
+li.li3 dt {
+    width: 42%;
+}
+
 dl.page1-dl2 {
     width: 40%;
     position: relative;
