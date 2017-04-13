@@ -857,7 +857,7 @@ animation: page2-img1-2 1s;
 }
 
 .page3-body {
-    width: 90%;
+    width: 100%;
     position: relative;
     margin: 0 auto;
 height: 40%;
@@ -1055,6 +1055,15 @@ li.li3 dt img {
     width: 100%;
 }
 
+li.li3 dt {
+    width: 42%;
+    float: left!important;
+}
+
+.li3 dd {
+    float: right;
+    font-size: 13px;
+}
 
 .page3-body-p p {
     width: 100%;
