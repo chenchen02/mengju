@@ -314,13 +314,14 @@ dd {
 }
 
 .page1-body dl {
-    margin-top: 20px;
+    margin-top: 10px;
 }
 
 .page1-body dd {
     margin-top: 10px;
     margin-left: 10px;
 font-size:100%;
+    width: 100%;
 }
 
 dl.page1-dl1 {
