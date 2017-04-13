@@ -525,9 +525,8 @@ to{-o-transform: rotate(0deg);
 
 .li2{
     width: 100%;
-    height: 100%;
-    position: absolute;
-      overflow: hidden;
+    height:90%;
+    
 }
 
 .page2 {
@@ -857,7 +856,7 @@ animation: page2-img1-2 1s;
 }
 
 .page3-body {
-    width: 100%;
+    width: 90%;
     position: relative;
     margin: 0 auto;
 height: 40%;
